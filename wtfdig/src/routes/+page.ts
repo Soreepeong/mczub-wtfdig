@@ -4456,7 +4456,7 @@ const idyllStrat: Strat = {
                 },
                 {
                     mechanic: 'bramble',
-                    description: 'Relative North',
+                    description: 'Relative NW',
                     imageUrl: './strats/idyll/brambles-w.png',
                     mask: 'radial-gradient(circle at 24% 53%, black 10%, rgba(0, 0, 0, 0.2) 10%)'
                 },
